@@ -11,7 +11,7 @@ https://haran-mk.github.io/10-days-API-Challenges/
 | Day | Project | Status |
 |------|---------|---------|
 | Day 1 | Fetch & Display Users | ✅ Completed |
-| Day 2 | Search Posts | ⬜ Pending |
+| Day 2 | Search Posts |✅ Completed|
 | Day 3 | Random Joke Generator | ⬜ Pending |
 | Day 4 | Weather App | ⬜ Pending |
 | Day 5 | Image Gallery | ⬜ Pending |
