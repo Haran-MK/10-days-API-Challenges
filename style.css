@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: times, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    color: #666;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.day-card {
+    background-color: white;
+    width: 250px;
+    padding: 25px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #333;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    transition: 0.3s;
+}
+
+.day-card:hover {
+    transform: translateY(-8px);
+}
+
+.day-card h2 {
+    margin-top: 0;
+    color: #007bff;
+}
+
+.day-card p {
+    color: #666;
+}
