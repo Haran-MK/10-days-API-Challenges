@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+#searchbox {
+    width:100%;
+    max-width:500px;
+    display:block;
+    margin:0 auto 20px;
+    padding:12px;
+    font-size:16px;
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+#postsContainer{
+    display:grid;
+    gap:15px;
+}
+
+.post-card{
+    background:white;
+    padding:15px;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+
+.post-card h3{
+    color:#007bff;
+}
