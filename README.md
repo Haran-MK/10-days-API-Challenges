@@ -13,7 +13,7 @@ https://haran-mk.github.io/10-days-API-Challenges/
 | Day 1 | Fetch & Display Users | ✅ Completed |
 | Day 2 | Search Posts |✅ Completed |
 | Day 3 | Random Joke Generator | ✅ Completed |
-| Day 4 | Weather App | ⬜ Pending |
+| Day 4 | Weather App | ✅ Completed|
 | Day 5 | Image Gallery | ⬜ Pending |
 | Day 6 | Pagination | ⬜ Pending |
 | Day 7 | Currency Converter | ⬜ Pending |
