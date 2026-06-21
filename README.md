@@ -16,7 +16,7 @@ https://haran-mk.github.io/10-days-API-Challenges/
 | Day 4 | Weather App | ✅ Completed|
 | Day 5 | Image Gallery |  ✅ Completed|
 | Day 6 | Pagination |✅ Completed |
-| Day 7 | Currency Converter | ⬜ Pending |
+| Day 7 | Currency Converter | ✅ Completed |
 | Day 8 | GitHub User Finder | ⬜ Pending |
 | Day 9 | Todo App | ⬜ Pending |
 | Day 10 | Login Simulation | ⬜ Pending |
