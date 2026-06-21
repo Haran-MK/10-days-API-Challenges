@@ -15,7 +15,7 @@ https://haran-mk.github.io/10-days-API-Challenges/
 | Day 3 | Random Joke Generator | ✅ Completed |
 | Day 4 | Weather App | ✅ Completed|
 | Day 5 | Image Gallery |  ✅ Completed|
-| Day 6 | Pagination | ⬜ Pending |
+| Day 6 | Pagination |✅ Completed |
 | Day 7 | Currency Converter | ⬜ Pending |
 | Day 8 | GitHub User Finder | ⬜ Pending |
 | Day 9 | Todo App | ⬜ Pending |
