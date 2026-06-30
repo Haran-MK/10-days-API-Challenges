@@ -19,7 +19,7 @@ https://haran-mk.github.io/10-days-API-Challenges/
 | Day 7 | Currency Converter | ✅ Completed |
 | Day 8 | GitHub User Finder |  ✅ Completed |
 | Day 9 | Todo App | ✅ Completed |
-| Day 10 | Login Simulation | ⬜ Pending |
+| Day 10 | Login Simulation |  ✅ Completed|
 
 ---
 
